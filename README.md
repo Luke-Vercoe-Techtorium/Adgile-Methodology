@@ -5,7 +5,7 @@ The purpose is to be making a website for electronic devices for people to buy.
 # Purpose
 The purpose is to be making a website for electronic devices for people to buy.
 # Company Credits
-Project Lead - Aayan
+Scrum Master - Aayan
 
 Designer - Sean
 
